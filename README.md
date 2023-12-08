@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I'm a **PhD Student in Construction Science at Texas A&M University**, with an **Expected Graduation in May 2025**.
-- 🌞 My current research centers on **Human-Environment Interaction**, leveraging **Digital Twin (DT) Solutions** to enhance the interplay between humans and environments **Toward Smarter and more Resilient Construction and Cities**.
+- 🎓 I'm a **PhD Student in Construction Science at Texas A&M University**, with an **Expected Graduation in May 2025**.
+- 🌞 My current research centers on **Human-Environment Interaction**, leveraging **Digital Twin (DT) Solutions**
+toward **Smarter and more Resilient Construction and Cities**.
 - :octocat: On this GitHub, I'll provide **Sharable Research Materials** for **Public Access**. </br>
 - 👯  For more details, visit my [Google Scholar Profile](https://scholar.google.com/citations?user=hYRXPWgAAAAJ&hl=en) or [Lab's Website](https://www.hamresearchgroup.com/).
 
