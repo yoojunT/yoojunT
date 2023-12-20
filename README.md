@@ -3,7 +3,7 @@
 - 🌞 My current research centers on **Human-Environment Interaction**, leveraging **Digital Twin (DT) Solutions**
 toward **Smarter and more Resilient Construction and Cities**.
 - :octocat: On this GitHub, I'll provide **Sharable Research Materials** for **Public Access**. </br>
-- 👯  For more details, visit my [Homepage](https://yoojunt.github.io/) or [Lab's Website](https://www.hamresearchgroup.com/).
+- 👯  You may find additional information of me and my research from my [Homepage](https://yoojunt.github.io/) or [Lab's Website](https://www.hamresearchgroup.com/).
 
 <p align="left">
     <img width="600" src="./img/DT_f.png">
