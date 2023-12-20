@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 - 🎓 I'm a **PhD Student in Construction Science at Texas A&M University**, with an **Expected Graduation in May 2025**.
 - 🌞 My current research centers on **Human-Environment Interaction**, leveraging **Digital Twin (DT) Solutions**
 toward **Smarter and more Resilient Construction and Cities**.
