@@ -4,9 +4,3 @@
 toward **Smarter and more Resilient Construction and Cities**.
 - :octocat: On this GitHub, I provide **Sharable Research Materials** for **Public Access**. </br>
 - 👯 You can find more information about me on my [Homepage](https://yoojunt.github.io/) or on the [Lab Website](https://www.hamresearchgroup.com/).
-
-<p align="left">
-    <img width="600" src="./img/DT_f.png">
-</p>
-
-Thanks for visiting 😊!
